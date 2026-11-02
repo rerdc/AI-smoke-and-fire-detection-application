@@ -1,0 +1,1 @@
+# AI-smoke-and-fire-detection-application
